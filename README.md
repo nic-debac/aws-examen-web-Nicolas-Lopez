@@ -6,18 +6,18 @@
 - Nombre: `mi-vpc-TuNombre-Apellidos`
 - CIDR Block: `10.0.0.0/16`
 
-  ![VCP](./img/VCP.jpg)
+  ![VPC](./img/VPC.jpg)
 
 
 - Subredes:
   - `subnet-linux`: `10.0.1.0/24`
   - `subnet-windows`: `10.0.2.0/24`
  
-  ![SUBNETS] (./img/SUBNETS.jpg)
+  ![SUBNETS](./img/SUBNETS.jpg)
 
 - Creación de una Internet Gateway y configuración de la tabla de rutas.
 
-![IGW](./img/IGW)
+![IGW](./img/IGW.jpg)
 
 ![Tabla de rutas](./img/ROUTE_TABLE.jpg)
 
